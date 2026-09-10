@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, I'm Sage (@sagedev43) 👋
 
-<!--
-**sagedev43/sagedev43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack dev at Creative Lab in Austin, TX. Mostly build internal tools, micro-services, and UI experiments that solve specific workflow headaches.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- Building simple, fast web apps with TypeScript, Node.js, and SQLite
+- Crafting responsive frontends with React
+- Exploring local-first syncing and tiny CLI utilities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Core Stack
+- **Languages/Runtime:** TypeScript, JavaScript, Node.js
+- **Backend:** Express, SQLite, REST APIs
+- **Frontend:** React, HTML5, Tailwind CSS
+- **Everyday Tools:** Git, Docker, Linux, VS Code
+
+#### Get in touch
+- Email: sage@creativelab.dev
+- Website: https://sagedev.io
+- LinkedIn: https://linkedin.com/in/sagedev43
